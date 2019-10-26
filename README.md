@@ -1,5 +1,4 @@
 # Pandas
-10分钟学Pandas汉化
-第一次玩github
-代码在main.ipynb上
+10分钟学Pandas汉化<br>
+第一次玩github<br>
 [pandas](/main.ipynb)
